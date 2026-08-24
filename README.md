@@ -44,7 +44,7 @@ Python (Pandas) for cleaning and exploration → SQL (SQLite) for querying → P
 
 ## What's in This Repo
 
-- `notebook.ipynb` — full analysis, cleaning, and SQL queries with explanations
+- `dubai-real-estate-rental-yield-analysis.ipynb` — full analysis, cleaning, and SQL queries with explanations
 - `Dubai_RealEstate_Dashboard.pbix` — the interactive Power BI dashboard
 - `dashboard_screenshot.png` — a quick look, in case you don't have Power BI handy
 
@@ -52,4 +52,5 @@ Python (Pandas) for cleaning and exploration → SQL (SQLite) for querying → P
 
 ![Dashboard Screenshot](dashboard_screenshot.png)
 
-*I'm a Computer Science graduate based in Dubai, currently working across data analytics, AI tooling, and full-stack development. This project came out of genuine curiosity about the city I'm building a life in - feel free to reach out if you want to talk through any of it.*
+*I'm an IT Professional based in Dubai, working across data analytics, AI tooling, and 
+full-stack development*
