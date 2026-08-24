@@ -8,15 +8,13 @@ This started as a portfolio project. It turned into me genuinely wanting to know
 
 Not "what's the average price in Downtown Dubai" - everyone already assumes that's expensive by default. I wanted to know: **if I had money to invest in property here, where would I actually get the best return?**
 
-Turns out, the answer surprised me.
-
 ## What I Found
 
-Using 50,000+ property sale records and 25,000+ rental listings across 84 Dubai communities, I calculated **rental yield** — basically, how much rental income you'd earn per year compared to how much you'd pay to buy. It's the number that actually matters if you're investing, not just admiring a skyline view.
+Using 50,000+ property sale records and 25,000+ rental listings across 84 Dubai communities, I calculated **rental yield** - basically, how much rental income you'd earn per year compared to how much you'd pay to buy. It's the number that actually matters if you're investing, not just admiring a skyline view.
 
 **The most "impressive" areas are often the worst investments:**
 - Downtown Dubai, Bulgari Resort, and Jumeirah Bay Island have the highest prices and among the *lowest* rental yields (~6%)
-- Meanwhile, areas like **The Valley** and **Dubai South** - not exactly Instagram famous = offer nearly double the yield (~10-11%)
+- Meanwhile, areas like **The Valley** and **Dubai South** - not exactly Instagram famous, offer nearly double the yield (~10-11%)
 
 In plain terms: you pay a premium to say you live somewhere fancy, but you don't necessarily earn it back in rent. If you're investing rather than showing off, the "boring" areas win.
 
